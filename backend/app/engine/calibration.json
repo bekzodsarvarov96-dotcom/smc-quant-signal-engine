@@ -1,0 +1,16 @@
+{
+  "source": "synthetic:BTCUSDT:24m",
+  "candidates": 10693,
+  "percentiles": {
+    "p50": 41.4,
+    "p75": 59.9,
+    "p90": 77.2,
+    "p97": 85.5
+  },
+  "cutoffs": {
+    "A+": 85.5,
+    "A": 77.2,
+    "B": 59.9,
+    "C": 41.4
+  }
+}
